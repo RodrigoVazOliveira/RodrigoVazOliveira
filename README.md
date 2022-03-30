@@ -1,6 +1,17 @@
 ### Hi there 👋
 
-<!--
+- 🔭 I’m currently working on developer Backend Java.
+- 🌱 I’m currently learning in University Federal Of Uberlandia
+- 👯 I’m looking to collaborate on with code open source and Free Software
+- 🤔 I’m looking for help with in project of thw Free Software (FOSS)
+
+
+**RodrigoVazOliveira/QuickBuy**
+**RodrigoVazOliveira/projetoFinalCatalisa**
+**RodrigoVazOliveira/projetoFinalCatalisaFrontEnd**
+
+
+<!-- 
 **RodrigoVazOliveira/RodrigoVazOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
