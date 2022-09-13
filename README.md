@@ -10,8 +10,28 @@
 **RodrigoVazOliveira/projetoFinalCatalisa**
 **RodrigoVazOliveira/projetoFinalCatalisaFrontEnd**
 
+### Tools:
 
-## Contacts:
+- Java (Spring Boot)
+- Kotlim 
+- PHP (Symfony or Laravel)
+- C/C++
+- DevOps
+  - Containers (Docker, Heroku)
+  - Vagrant
+  - AWS CloudFormation
+- AWS (DynamoDB, Watching, RDS, CloudFormation, Stack, API Gateway, Lambda
+- Elastic Search
+- SQL
+- Databases
+  - MySQL
+  - PostgreSQL
+  - Microsoft SQL Server
+  - SQLite3
+
+
+
+### Contacts:
  
  <a href="mailto:rodrigovazdeoliveira@gmail.com"> :email: GMAIL</a>
 
