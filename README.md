@@ -14,8 +14,8 @@
 
 - Java (Spring Boot)
 - Kotlim 
-- PHP (Symfony or Laravel)
-- C/C++
+- Python
+- C#
 - DevOps
   - Containers (Docker, Heroku)
   - Vagrant
@@ -28,6 +28,8 @@
   - PostgreSQL
   - Microsoft SQL Server
   - SQLite3
+  - DynamoDB
+  - MongoBB
 
 
 
